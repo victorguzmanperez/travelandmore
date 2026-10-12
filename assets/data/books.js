@@ -135,5 +135,21 @@ export const books = [
     "affiliate_url": "https://link.amazon/B00LRhp7c",
     "destacado": false,
     "orden": 4
+  },
+  {
+    "id": "el-millonario-de-la-puerta-de-al-lado",
+    "titulo": "El millonario de la puerta de al lado",
+    "autor": "Thomas J. Stanley, William D. Danko",
+    "categoria": "Mentalidad financiera",
+    "categoria_id": "mentalidad-financiera",
+    "estado": "Leyendo",
+    "imagen": "assets/img/books/el-millonario-de-la-puerta-de-al-lado.jpg",
+    "descripcion": "Un estudio sobre los hábitos y decisiones de personas que han conseguido acumular patrimonio sin llevar necesariamente un estilo de vida ostentoso. Thomas J. Stanley y William D. Danko analizan cómo viven, ahorran, consumen e invierten muchos millonarios, cuestionando la imagen tradicional que solemos asociar con la riqueza.",
+    "opinion": "",
+    "rating": null,
+    "substack_url": "",
+    "affiliate_url": "https://link.amazon/B01eV45RU",
+    "destacado": false,
+    "orden": 5
   }
 ];
